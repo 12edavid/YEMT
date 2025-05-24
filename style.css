@@ -297,8 +297,8 @@
 	opacity: 0;
 }
 #flower-text {
-  position: absolute;
-  top: -25%;
+  position: relative;
+  top: -35%;
   left: 50%;
   transform: translateX(-50%);
   color: white;
